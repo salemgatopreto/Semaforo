@@ -1,0 +1,36 @@
+C:\Users\Felipe\Documents\Semaforo\Semaforo\obj\Debug\net6.0-windows\Semaforo.csproj.AssemblyReference.cache
+C:\Users\Felipe\Documents\Semaforo\Semaforo\obj\Debug\net6.0-windows\Semaforo.csproj.GenerateResource.cache
+C:\Users\Felipe\Documents\Semaforo\Semaforo\bin\Debug\net6.0-windows\Semaforo.exe
+C:\Users\Felipe\Documents\Semaforo\Semaforo\bin\Debug\net6.0-windows\Semaforo.deps.json
+C:\Users\Felipe\Documents\Semaforo\Semaforo\bin\Debug\net6.0-windows\Semaforo.runtimeconfig.json
+C:\Users\Felipe\Documents\Semaforo\Semaforo\bin\Debug\net6.0-windows\Semaforo.dll
+C:\Users\Felipe\Documents\Semaforo\Semaforo\bin\Debug\net6.0-windows\Semaforo.pdb
+C:\Users\Felipe\Documents\Semaforo\Semaforo\obj\Debug\net6.0-windows\Semaforo.Form1.resources
+C:\Users\Felipe\Documents\Semaforo\Semaforo\obj\Debug\net6.0-windows\Semaforo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Documents\Semaforo\Semaforo\obj\Debug\net6.0-windows\Semaforo.AssemblyInfoInputs.cache
+C:\Users\Felipe\Documents\Semaforo\Semaforo\obj\Debug\net6.0-windows\Semaforo.AssemblyInfo.cs
+C:\Users\Felipe\Documents\Semaforo\Semaforo\obj\Debug\net6.0-windows\Semaforo.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Documents\Semaforo\Semaforo\obj\Debug\net6.0-windows\Semaforo.dll
+C:\Users\Felipe\Documents\Semaforo\Semaforo\obj\Debug\net6.0-windows\refint\Semaforo.dll
+C:\Users\Felipe\Documents\Semaforo\Semaforo\obj\Debug\net6.0-windows\Semaforo.pdb
+C:\Users\Felipe\Documents\Semaforo\Semaforo\obj\Debug\net6.0-windows\Semaforo.genruntimeconfig.cache
+C:\Users\Felipe\Documents\Semaforo\Semaforo\obj\Debug\net6.0-windows\ref\Semaforo.dll
+C:\Users\Felipe\Documents\Semaforo\Semaforo\obj\Debug\net6.0-windows\Semaforo.Properties.Resources.resources
+C:\Users\guilherme.hsachetti\OneDrive - SENAC - SP\Área de Trabalho\Semaforo-main\Semaforo\bin\Debug\net6.0-windows\Semaforo.exe
+C:\Users\guilherme.hsachetti\OneDrive - SENAC - SP\Área de Trabalho\Semaforo-main\Semaforo\bin\Debug\net6.0-windows\Semaforo.deps.json
+C:\Users\guilherme.hsachetti\OneDrive - SENAC - SP\Área de Trabalho\Semaforo-main\Semaforo\bin\Debug\net6.0-windows\Semaforo.runtimeconfig.json
+C:\Users\guilherme.hsachetti\OneDrive - SENAC - SP\Área de Trabalho\Semaforo-main\Semaforo\bin\Debug\net6.0-windows\Semaforo.dll
+C:\Users\guilherme.hsachetti\OneDrive - SENAC - SP\Área de Trabalho\Semaforo-main\Semaforo\bin\Debug\net6.0-windows\ref\Semaforo.dll
+C:\Users\guilherme.hsachetti\OneDrive - SENAC - SP\Área de Trabalho\Semaforo-main\Semaforo\bin\Debug\net6.0-windows\Semaforo.pdb
+C:\Users\guilherme.hsachetti\OneDrive - SENAC - SP\Área de Trabalho\Semaforo-main\Semaforo\obj\Debug\net6.0-windows\Semaforo.csproj.AssemblyReference.cache
+C:\Users\guilherme.hsachetti\OneDrive - SENAC - SP\Área de Trabalho\Semaforo-main\Semaforo\obj\Debug\net6.0-windows\Semaforo.Form1.resources
+C:\Users\guilherme.hsachetti\OneDrive - SENAC - SP\Área de Trabalho\Semaforo-main\Semaforo\obj\Debug\net6.0-windows\Semaforo.Properties.Resources.resources
+C:\Users\guilherme.hsachetti\OneDrive - SENAC - SP\Área de Trabalho\Semaforo-main\Semaforo\obj\Debug\net6.0-windows\Semaforo.csproj.GenerateResource.cache
+C:\Users\guilherme.hsachetti\OneDrive - SENAC - SP\Área de Trabalho\Semaforo-main\Semaforo\obj\Debug\net6.0-windows\Semaforo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.hsachetti\OneDrive - SENAC - SP\Área de Trabalho\Semaforo-main\Semaforo\obj\Debug\net6.0-windows\Semaforo.AssemblyInfoInputs.cache
+C:\Users\guilherme.hsachetti\OneDrive - SENAC - SP\Área de Trabalho\Semaforo-main\Semaforo\obj\Debug\net6.0-windows\Semaforo.AssemblyInfo.cs
+C:\Users\guilherme.hsachetti\OneDrive - SENAC - SP\Área de Trabalho\Semaforo-main\Semaforo\obj\Debug\net6.0-windows\Semaforo.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.hsachetti\OneDrive - SENAC - SP\Área de Trabalho\Semaforo-main\Semaforo\obj\Debug\net6.0-windows\Semaforo.dll
+C:\Users\guilherme.hsachetti\OneDrive - SENAC - SP\Área de Trabalho\Semaforo-main\Semaforo\obj\Debug\net6.0-windows\ref\Semaforo.dll
+C:\Users\guilherme.hsachetti\OneDrive - SENAC - SP\Área de Trabalho\Semaforo-main\Semaforo\obj\Debug\net6.0-windows\Semaforo.pdb
+C:\Users\guilherme.hsachetti\OneDrive - SENAC - SP\Área de Trabalho\Semaforo-main\Semaforo\obj\Debug\net6.0-windows\Semaforo.genruntimeconfig.cache
